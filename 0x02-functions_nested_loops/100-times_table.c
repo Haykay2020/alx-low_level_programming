@@ -23,7 +23,7 @@ void print_times_table(int n)
 			}
 			else
 			{
-				product = i * k
+				product = i * k;
 				if (k == 0)
 				{
 					_putchar('0' + product);
