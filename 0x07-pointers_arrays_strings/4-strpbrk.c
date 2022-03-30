@@ -3,7 +3,7 @@
 
 /**
  * _strpbrk - bytes
- * @s: pointer to char
+ * @s: pointer to char -
  * @accept: pointer to char
  * Return: NULL
  */
