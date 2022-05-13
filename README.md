@@ -1,7 +1,6 @@
-# https://github.com/Haykay2020/alx-low_level_programming
 # Project Name
-**Low-level programming & Algorithm**
-**ALX LOW LEVEL PROGRAMMING IN C
+**Low-level programming & Algorithm** |
+**ALX LOW LEVEL PROGRAMMING IN C**
 
 ## Author's Details
 Name: *ADISA Abdulhakeem*
